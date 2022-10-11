@@ -59,13 +59,7 @@ some snapshot of our website
 > This is a team project, built by us in the Construct Week at Masai School.
 ---
 
-## Our Team Members ❤️
 
-- [**Krunal Bhandekar**](https://www.linkedin.com/in/krunal-bhandekar/)
-- [**Rahul Sinha**](https://www.linkedin.com/in/rahul-sinha-584a2694/)
-- [**Priyanshu Anany**](https://www.linkedin.com/in/priyanshu-anany-055a09224/)
-- [**Channaveer Patil**](https://www.linkedin.com/in/channaveer-patil-704bb017a/)
-- [**Sachin Ingole** ](https://www.linkedin.com/in/sachin-ingole/)
 
 
 ### Pages & Features 👇
